@@ -1,32 +1,70 @@
-# Simple Stock Management - Server Component
+#Nibret-Kutitir-System | Stock Management 
 
-## About
+✱ Project:
+This Nibret Kutitir System is a Stock Mmanagement and Inventory Demand Forecastings ystem. it is developed for the popular Ethiopian Electronics wholesales trading company Mimi Computers. And the system incorporates managing the stock  and inventory system as well as forecasting the demand of the market using machine learning.
 
-This a demo/prototype repository for the server component of the Simple Stock Management stock and inventory system. It is built using web technologies, with a client/server architecture. The repository for the frontend app component is at: https://github.com/Aninstance/simple-stock-management-frontend
 
-The system allows "stores" to request transfers of stock ("order") from a central stock repository ("warehouse"). Stock is adjusted for the "Warehouse Account" and the "Store Account" as stock transfers are "ordered". Email notifications are sent to the "warehouse" administrator(s) and the ordering "store manager".
+Position: : In our Engineering Team I have worked as a Python-Back-End developer and Machine learning Engineer for this project.
 
-This project offers a web frontend that connects to a RESTful API backend. Data is stored in either a SQLite, mySQL or PostgreSQL (recommended) database.
 
-## Support & Project Status
+✱ Responsibilities:
 
-A regularly patched, proprietary licensed application-as-a-service version, fully maintained for subscribers and clients, is available upon request (limited availability) and is currently priced at £10.00/month.
+Develop back-end components to improve responsiveness and overall performance.
+Creating and maintaining the server-side components of the system.
+Integrate user-facing elements into each application.
+Test and debug programs.
+Implement security and data protection solutions.
+Assess and prioritize feature requests.
+Coordinate with internal teams to understand user requirements and provide technical solutions.
 
-A one-off installation service for this GPL licensed version is also available.
 
-The GPL licensed version of this project offered here is *not guaranteed* to be regularly maintained. It is made available here for demo/prototype purposes only, and should not be used in production (i.e. a "live" working environment) unless the administrator regularly patches project dependencies (i.e. PYPI & npm packages) with upstream security updates as and when released by vendors.
+Styled responsive web design to fit both desktop and mobile views of the browser.
 
-If you would like to avail of the proprietary subscription to the application-as-a-service, or request other bespoke work on this project, please email to discuss: ssm@uplandsdynamic.com.
 
-## Key Technologies for Server Component
+✱ Tools & For Why I Used them
 
-Key technologies include: Python 3.7; Django; Django-rest-framework; Django_q (for asynchronous processes); Javascript; HTML5; CSS3;
+Developed the web application in Python Frame-work Python, Django, Django-rest-framework, Django_q(for asynchronous processes), Mysql, PostgreSQL.
 
-## Live Demo
+I used Django to build the server side of the system.
 
-There is a live demo, available here:
+I used Django-rest-framework to build the Web API’s to extend the functionality of a web browser and to enable Server API can extend the functionality of a web server.
 
-https://frontend.ssm.webapps.uplandsdynamic.com
+I used Django_q for database-related operations.
+I used Pandas  to load the data frame in a 2D array format and to perform analysis tasks in one go.
+I used Numpy arrays to perform large computations in a very short time.
+I used Matplotlib/Seaborn to draw visualizations.
+I used Sklearn to perform tasks from data preprocessing to model development and evaluation.
+I used XGBoost to have the eXtreme Gradient Boosting machine learning algorithm to achieve high accuracy on predictions.
+
+
+ ✱  Features of Nibret Kutitir System
+
+Inventory Management
+Barcoding and Tagging
+Inventory Tracking
+Reporting Tools
+Transfer Management Capabilities
+Store Return Handling
+Inventory Forecasting
+Demand Planning
+
+
+
+ ✱  The goal of the Project: 
+
+
+ Increases productivity and efficiency
+Creates a more organised warehouse
+Helps save time and money
+Improves accuracy of inventory orders
+Keeps customers coming back for more
+
+
+Outcome:
+
+It helps the company to manage its stocks, inventories and to forecast market demand and ensures a business have enough product to fulfill customer orders while not tying up cash in unnecessary inventory. 
+
+
 
 There are two test users - one for the warehouse administrator, the other for a 'store manager'. Credentials are:
 
